@@ -1,0 +1,12 @@
+
+
+# ignoring sub-directory
+node_modules/
+bower_components/
+*.log
+
+# I will leave _site as of now.Because this directory is 
+# generated we can ignore _site as well for pushing to Git
+
+# ignoring sub-directory
+**/ext-imgs/**
